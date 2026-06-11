@@ -10,5 +10,35 @@
     "downloadUrl": "https://github.com/InsideEarth2150/Earth2150-Launcher-Repo/releases/download/super-storm-pl-3.0/SuperStorm_PL.zip",
     "sha256": "fec541ec46192386f56a73a9c4571ea9b28406b04af9f687e98480243015558a",
     "sizeBytes": 158500
+  },{
+    "id": "Super Storm DE_3.0", "name": "Super Storm DE", "version": "3.0",
+    "eftbp": false, "tmp": true, "ls": true,
+    "authors": "SpaceTug",
+    "description": "Gamers, who install the SuperStorm mod, take profit from new team options. These handle the alliances between human and AI-players automatically depending on the presetting. Moreover, the mod presents changes in the resource - and weather-options. After installing, resources last 4 to 16 times longer and the weather can be influenced. But that's not all. SuperStorm provides a clear view on the explored map after removing the fog of war with a mouse click. The \"Observer\"-Option, only available in the single player game, allows you to watch AI-players battling it out and ignore you totally.",
+    "website": "http://web.archive.org/web/20151025082805/http://homepage.ntlworld.com/gmtechb/Earth/SS_V2.htm",
+    "minLauncherVersion": "0.2.0",
+    "downloadUrl": "https://github.com/InsideEarth2150/Earth2150-Launcher-Repo/releases/download/super-storm-de-3.0/SuperStorm_DE.zip",
+    "sha256": "921beffe059b2abd38e84914b7c2667dc1540671b0bb95c7780d6a225a595cbf",
+    "sizeBytes": 583147
+  },{
+    "id": "Super Storm EN_3.0", "name": "Super Storm EN", "version": "3.0",
+    "eftbp": false, "tmp": true, "ls": true,
+    "authors": "SpaceTug",
+    "description": "Gamers, who install the SuperStorm mod, take profit from new team options. These handle the alliances between human and AI-players automatically depending on the presetting. Moreover, the mod presents changes in the resource - and weather-options. After installing, resources last 4 to 16 times longer and the weather can be influenced. But that's not all. SuperStorm provides a clear view on the explored map after removing the fog of war with a mouse click. The \"Observer\"-Option, only available in the single player game, allows you to watch AI-players battling it out and ignore you totally.",
+    "website": "http://web.archive.org/web/20151025082805/http://homepage.ntlworld.com/gmtechb/Earth/SS_V2.htm",
+    "minLauncherVersion": "0.2.0",
+    "downloadUrl": "https://github.com/InsideEarth2150/Earth2150-Launcher-Repo/releases/download/super-storm-en-3.0/SuperStorm_EN.zip",
+    "sha256": "52c4a1f02bb8356c0f0346d16c5e07b9fe859b66f0be87a0bb22cc0e63f4adaf",
+    "sizeBytes": 582978
+  },{
+    "id": "Super Storm RU_3.0", "name": "Super Storm RU", "version": "3.0",
+    "eftbp": false, "tmp": true, "ls": true,
+    "authors": "SpaceTug",
+    "description": "Gamers, who install the SuperStorm mod, take profit from new team options. These handle the alliances between human and AI-players automatically depending on the presetting. Moreover, the mod presents changes in the resource - and weather-options. After installing, resources last 4 to 16 times longer and the weather can be influenced. But that's not all. SuperStorm provides a clear view on the explored map after removing the fog of war with a mouse click. The \"Observer\"-Option, only available in the single player game, allows you to watch AI-players battling it out and ignore you totally.",
+    "website": "http://web.archive.org/web/20151025082805/http://homepage.ntlworld.com/gmtechb/Earth/SS_V2.htm",
+    "minLauncherVersion": "0.2.0",
+    "downloadUrl": "https://github.com/InsideEarth2150/Earth2150-Launcher-Repo/releases/download/super-storm-ru-3.0/SuperStorm_RU.zip",
+    "sha256": "a5df8b1536dde781994ddfdcff87e45e48cb949249071da0878c75a3ec21b3f1",
+    "sizeBytes": 583701
   }]
 }
