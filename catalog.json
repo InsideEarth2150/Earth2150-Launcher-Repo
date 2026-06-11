@@ -40,5 +40,87 @@
     "downloadUrl": "https://github.com/InsideEarth2150/Earth2150-Launcher-Repo/releases/download/super-storm-ru-3.0/SuperStorm_RU.zip",
     "sha256": "a5df8b1536dde781994ddfdcff87e45e48cb949249071da0878c75a3ec21b3f1",
     "sizeBytes": 583701
+  },{
+    "id": "Chip's No reload_1.0", "name": "Chip's No reload", "version": "1.0",
+    "eftbp": false, "tmp": true, "ls": true,
+    "authors": "Chip",
+    "description": "A mod that makes all weapons reacharge on their own, which eliminates the need to use ammo suppliers. It is based on 2.1 weapon parameters.",
+    "minLauncherVersion": "0.2.0",
+    "downloadUrl": "https://github.com/InsideEarth2150/Earth2150-Launcher-Repo/releases/download/chips-no-reload-1.0/ChipNoReload.zip",
+    "sha256": "9fbbb2c055037b4d48785c5338e91aec223afa0a767228236305d62a95cbd69b",
+    "sizeBytes": 31433
+  },{
+    "id": "General of the Third Category PL_1.0", "name": "General of the Third Category PL", "version": "1.0",
+    "eftbp": false, "tmp": true, "ls": false,
+    "authors": "KP 2140",
+    "description": "The campaign is the work of one of the Polish fans of The Moon Project - KP 2140. Thanks to him, we can play the despised and humiliated General of the UCS. The campaign gives us an amazing Fun. In most missions, apart from the fact that you have to think, we can admire huge fights, consisting of dozens of vehicles. Finally, there is a mission in which we use full capabilities of ships. The tasks are quite diverse - from destroy everyone, through repair the base, to build a defense in the ravine and repel the enemy. The campaign is also distinguished by a fairly high level of difficulty. All missions take place on newly created maps, we get completely new orders, which are sometimes very humorous (if we treat them with tongue in cheek). The plot strongly refers to the official Earths, so we can look at the war of 2150th from a different perspective. I think you don't need to be encouraged more to download this first Polish mod! It's just worth it! The Moon project gains a second youth with him :>",
+    "minLauncherVersion": "0.2.0",
+    "downloadUrl": "https://github.com/InsideEarth2150/Earth2150-Launcher-Repo/releases/download/general-of-the-third-category-pl-1.0/General3rd_PL.zip",
+    "sha256": "14ca4171d6a794f06f92e57354c7497a4d3e14128e88bf48c44c387be1445f89",
+    "sizeBytes": 927414
+  },{
+    "id": "IEO Arena_1.0", "name": "IEO Arena", "version": "1.0",
+    "eftbp": false, "tmp": true, "ls": true,
+    "authors": "Guardian, Szakael",
+    "description": "This mod offers a completely rebuilt version of the arena mode. Unlike the original one, it enables dynamic, heavily configurable and very fun battles of up to 20 units per player. The mod can offer a lot of fun both in single and multiplayer modes.",
+    "website": "https://github.com/InsideEarth2150/MoDs/tree/main/Game%20Specific/The%20Moon%20Project%20%26%20Lost%20Souls/IEO%20Arena",
+    "minLauncherVersion": "0.2.0",
+    "downloadUrl": "https://github.com/InsideEarth2150/Earth2150-Launcher-Repo/releases/download/ieo-arena-1.0/IeoArena.zip",
+    "sha256": "267b453945871c187dcc372fde1b1240e45b175ef2c3aa8c741a448150e950cc",
+    "sizeBytes": 125158
+  },{
+    "id": "Red UCS Interface_1.0", "name": "Red UCS Interface", "version": "1.0",
+    "eftbp": true, "tmp": true, "ls": true,
+    "authors": "Szakael",
+    "description": "Red colored in-game interface for UCS.",
+    "minLauncherVersion": "0.2.0",
+    "downloadUrl": "https://github.com/InsideEarth2150/Earth2150-Launcher-Repo/releases/download/red-ucs-interface-1.0/InterfaceUCSRI.zip",
+    "sha256": "c86988f48a1239bb555e808d7227fe3aaae4c4c0b1951b70ce1d26d19286dc6a",
+    "sizeBytes": 61504
+  },{
+    "id": "Silent Strike Campaign EN_1.0.1", "name": "Silent Strike Campaign EN", "version": "1.0.1",
+    "eftbp": false, "tmp": true, "ls": false,
+    "authors": "ONE, tested by Rosic and PWL",
+    "description": "This is an additional campaign for \"Earth 2150: The Moon Project\" for UCS. It includes 20 completely new missions. The story takes place parallel to the campaign in the Escape from the Blue Planet. You gets an opportunity to get to know the NEO from a different angle, before he became such a rebellious artificial intelligence. Together, you will carry out missions inter alia aimed at supporting the MARS project.",
+    "minLauncherVersion": "0.2.0",
+    "downloadUrl": "https://github.com/InsideEarth2150/Earth2150-Launcher-Repo/releases/download/silent-strike-campaign-en-1.0.1/ONE_Campaign_EN.zip",
+    "sha256": "bd5c3fb9b5ac8d4bdddd8faf211eb8e77e112bcedb38cfa701297ff2d54e9cbd",
+    "sizeBytes": 1702266
+  },{
+    "id": "Silent Strike Campaign PL_1.0.1", "name": "Silent Strike Campaign PL", "version": "1.0.1",
+    "eftbp": false, "tmp": true, "ls": false,
+    "authors": "ONE, tested by Rosic and PWL",
+    "description": "Jest to dodatkowa kampania do \"Earth 2150 : The Moon Project\" , przeznaczona dla UCS. Zawiera 20 całkowicie nowych misji.",
+    "minLauncherVersion": "0.2.0",
+    "downloadUrl": "https://github.com/InsideEarth2150/Earth2150-Launcher-Repo/releases/download/silent-strike-campaign-pl-1.0.1/ONE_Campaign_PL.zip",
+    "sha256": "0340d422d5a89bdc58e9015c3bc30285d107abfcfb549daf69063933e3efc07e",
+    "sizeBytes": 1706532
+  },{
+    "id": "Par Mod_0.4", "name": "Par Mod", "version": "0.4",
+    "eftbp": false, "tmp": true, "ls": true,
+    "authors": "Szakael",
+    "description": "This mod offers an alternative set of game parameters.",
+    "minLauncherVersion": "0.2.0",
+    "downloadUrl": "https://github.com/InsideEarth2150/Earth2150-Launcher-Repo/releases/download/par-mod-0.4/Par_Mod_v0.4.zip",
+    "sha256": "b2450a658510678f4daa8dfdd74ba6bf8b5ce31ce11fc7a773b0718be7bbe1e6",
+    "sizeBytes": 70631
+  },{
+    "id": "Red EFTBP Menu Interface_1.0", "name": "Red EFTBP Menu Interface", "version": "1.0",
+    "eftbp": true, "tmp": true, "ls": true,
+    "authors": "Szakael",
+    "description": "Red colored Menu interface based on EFTBP.",
+    "minLauncherVersion": "0.2.0",
+    "downloadUrl": "https://github.com/InsideEarth2150/Earth2150-Launcher-Repo/releases/download/red-eftbp-menu-interface-1.0/RedInterface.zip",
+    "sha256": "4520cab1797e05f2c5d01a317d2c2a1065f6ff25b2d7da6ab87887d938dc540e",
+    "sizeBytes": 3856300
+  },{
+    "id": "WeatherMod_1.0", "name": "WeatherMod", "version": "1.0",
+    "eftbp": true, "tmp": false, "ls": false,
+    "authors": "Dave",
+    "description": "A very effective weather mod that allows you to choose the type of weather for a given map. The script generates random but fair weather phenomena in the map area.",
+    "minLauncherVersion": "0.2.0",
+    "downloadUrl": "https://github.com/InsideEarth2150/Earth2150-Launcher-Repo/releases/download/weathermod-1.0/WeatherMod.zip",
+    "sha256": "987617fdfa40a790c51837e371e1596bb6af1b376d770b51fc69ca78587af028",
+    "sizeBytes": 2478
   }]
 }
