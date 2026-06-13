@@ -1,6 +1,36 @@
 {
   "schemaVersion": 1,
   "mods": [{
+    "id": "AdvancedAI_1.8.6dev", "name": "AdvancedAI", "version": "1.8.6dev",
+    "eftbp": false, "tmp": true, "ls": true,
+    "authors": "Guardian",
+    "description": "This is a mod for The Moon Project that provides extremely strong AI for Skirmish or Multiplayer games.",
+    "website": "https://github.com/InsideEarth2150/MoDs/tree/main/Game%20Specific/The%20Moon%20Project/EarthAdvancedAi",
+    "minLauncherVersion": "0.3.0",
+    "downloadUrl": "https://github.com/InsideEarth2150/Earth2150-Launcher-Repo/releases/download/advanced-ai-1.8.6dev/AdvancedAI.zip",
+    "sha256": "871257e2bcbf0ac86e123a2009e54cfd7d2b1bf8bff1034501078d72e8c03264",
+    "sizeBytes": 1145363
+  },{
+    "id": "EarthExtensions_2.11.0", "name": "EarthExtensions", "version": "2.11.0",
+    "eftbp": false, "tmp": true, "ls": true,
+    "authors": "Guardian",
+    "description": "EarthTmpExtensions is a module for The Moon Project and Lost Souls, which fixes some bugs and adds multiple clientside QoL improvements. A must have.",
+    "website": "https://wiki.insideearth.info/wiki/EarthExtensions",
+    "minLauncherVersion": "0.3.0",
+    "downloadUrl": "https://github.com/InsideEarth2150/Earth2150-Launcher-Repo/releases/download/earth-extensions-2.11.0/EarthExtensions.zip",
+    "sha256": "c28c3984faf0ec64b447448b6f516cd1cd305e15df4dd20f61e6e4874e3e085f",
+    "sizeBytes": 403279
+  },{
+    "id": "Super Storm EN_3.0", "name": "Super Storm EN", "version": "3.0",
+    "eftbp": false, "tmp": true, "ls": true,
+    "authors": "SpaceTug",
+    "description": "Gamers, who install the SuperStorm mod, take profit from new team options. These handle the alliances between human and AI-players automatically depending on the presetting. Moreover, the mod presents changes in the resource - and weather-options. After installing, resources last 4 to 16 times longer and the weather can be influenced. But that's not all. SuperStorm provides a clear view on the explored map after removing the fog of war with a mouse click. The \"Observer\"-Option, only available in the single player game, allows you to watch AI-players battling it out and ignore you totally.",
+    "website": "http://web.archive.org/web/20151025082805/http://homepage.ntlworld.com/gmtechb/Earth/SS_V2.htm",
+    "minLauncherVersion": "0.2.0",
+    "downloadUrl": "https://github.com/InsideEarth2150/Earth2150-Launcher-Repo/releases/download/super-storm-en-3.0/SuperStorm_EN.zip",
+    "sha256": "52c4a1f02bb8356c0f0346d16c5e07b9fe859b66f0be87a0bb22cc0e63f4adaf",
+    "sizeBytes": 582978
+  },{
     "id": "Super Storm PL_3.0", "name": "Super Storm PL", "version": "3.0",
     "eftbp": false, "tmp": true, "ls": true,
     "authors": "SpaceTug",
@@ -20,16 +50,6 @@
     "downloadUrl": "https://github.com/InsideEarth2150/Earth2150-Launcher-Repo/releases/download/super-storm-de-3.0/SuperStorm_DE.zip",
     "sha256": "921beffe059b2abd38e84914b7c2667dc1540671b0bb95c7780d6a225a595cbf",
     "sizeBytes": 583147
-  },{
-    "id": "Super Storm EN_3.0", "name": "Super Storm EN", "version": "3.0",
-    "eftbp": false, "tmp": true, "ls": true,
-    "authors": "SpaceTug",
-    "description": "Gamers, who install the SuperStorm mod, take profit from new team options. These handle the alliances between human and AI-players automatically depending on the presetting. Moreover, the mod presents changes in the resource - and weather-options. After installing, resources last 4 to 16 times longer and the weather can be influenced. But that's not all. SuperStorm provides a clear view on the explored map after removing the fog of war with a mouse click. The \"Observer\"-Option, only available in the single player game, allows you to watch AI-players battling it out and ignore you totally.",
-    "website": "http://web.archive.org/web/20151025082805/http://homepage.ntlworld.com/gmtechb/Earth/SS_V2.htm",
-    "minLauncherVersion": "0.2.0",
-    "downloadUrl": "https://github.com/InsideEarth2150/Earth2150-Launcher-Repo/releases/download/super-storm-en-3.0/SuperStorm_EN.zip",
-    "sha256": "52c4a1f02bb8356c0f0346d16c5e07b9fe859b66f0be87a0bb22cc0e63f4adaf",
-    "sizeBytes": 582978
   },{
     "id": "Super Storm RU_3.0", "name": "Super Storm RU", "version": "3.0",
     "eftbp": false, "tmp": true, "ls": true,
@@ -78,6 +98,15 @@
     "sha256": "c86988f48a1239bb555e808d7227fe3aaae4c4c0b1951b70ce1d26d19286dc6a",
     "sizeBytes": 61504
   },{
+    "id": "Red EFTBP Menu Interface_1.0", "name": "Red EFTBP Menu Interface", "version": "1.0",
+    "eftbp": true, "tmp": true, "ls": true,
+    "authors": "Szakael",
+    "description": "Red colored Menu interface based on EFTBP.",
+    "minLauncherVersion": "0.2.0",
+    "downloadUrl": "https://github.com/InsideEarth2150/Earth2150-Launcher-Repo/releases/download/red-eftbp-menu-interface-1.0/RedInterface.zip",
+    "sha256": "4520cab1797e05f2c5d01a317d2c2a1065f6ff25b2d7da6ab87887d938dc540e",
+    "sizeBytes": 3856300
+  },{
     "id": "Silent Strike Campaign EN_1.0.1", "name": "Silent Strike Campaign EN", "version": "1.0.1",
     "eftbp": false, "tmp": true, "ls": false,
     "authors": "ONE, tested by Rosic and PWL",
@@ -104,15 +133,6 @@
     "downloadUrl": "https://github.com/InsideEarth2150/Earth2150-Launcher-Repo/releases/download/par-mod-0.4/Par_Mod_v0.4.zip",
     "sha256": "b2450a658510678f4daa8dfdd74ba6bf8b5ce31ce11fc7a773b0718be7bbe1e6",
     "sizeBytes": 70631
-  },{
-    "id": "Red EFTBP Menu Interface_1.0", "name": "Red EFTBP Menu Interface", "version": "1.0",
-    "eftbp": true, "tmp": true, "ls": true,
-    "authors": "Szakael",
-    "description": "Red colored Menu interface based on EFTBP.",
-    "minLauncherVersion": "0.2.0",
-    "downloadUrl": "https://github.com/InsideEarth2150/Earth2150-Launcher-Repo/releases/download/red-eftbp-menu-interface-1.0/RedInterface.zip",
-    "sha256": "4520cab1797e05f2c5d01a317d2c2a1065f6ff25b2d7da6ab87887d938dc540e",
-    "sizeBytes": 3856300
   },{
     "id": "WeatherMod_1.0", "name": "WeatherMod", "version": "1.0",
     "eftbp": true, "tmp": false, "ls": false,
