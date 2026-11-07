@@ -1,25 +1,25 @@
 {
   "schemaVersion": 1,
   "mods": [{
-    "id": "AdvancedAI_1.8.6dev", "name": "AdvancedAI", "version": "1.8.6dev",
+    "id": "AdvancedAI_1.9", "name": "AdvancedAI", "version": "1.9",
     "eftbp": false, "tmp": true, "ls": true,
     "authors": "Guardian",
     "description": "This is a mod for The Moon Project that provides extremely strong AI for Skirmish or Multiplayer games.",
     "website": "https://github.com/InsideEarth2150/MoDs/tree/main/Game%20Specific/The%20Moon%20Project/EarthAdvancedAi",
     "minLauncherVersion": "0.3.0",
-    "downloadUrl": "https://github.com/InsideEarth2150/Earth2150-Launcher-Repo/releases/download/advanced-ai-1.8.6dev/AdvancedAI.zip",
-    "sha256": "871257e2bcbf0ac86e123a2009e54cfd7d2b1bf8bff1034501078d72e8c03264",
-    "sizeBytes": 1145363
+    "downloadUrl": "https://github.com/InsideEarth2150/Earth2150-Launcher-Repo/releases/download/advanced-ai-1.9/EarthAdvancedAi_v1.9.zip",
+    "sha256": "cd49e4c00bb1363a4febe4ed9c71bfeee4955ec01ec519c7b70a96d28533b3f4",
+    "sizeBytes": 1330927
   },{
-    "id": "EarthExtensions_2.11.0", "name": "EarthExtensions", "version": "2.11.0",
+    "id": "EarthExtensions_2.12.0", "name": "EarthExtensions", "version": "2.12.0",
     "eftbp": false, "tmp": true, "ls": true,
     "authors": "Guardian",
     "description": "EarthTmpExtensions is a module for The Moon Project and Lost Souls, which fixes some bugs and adds multiple clientside QoL improvements. A must have.",
     "website": "https://wiki.insideearth.info/wiki/EarthExtensions",
     "minLauncherVersion": "0.3.0",
-    "downloadUrl": "https://github.com/InsideEarth2150/Earth2150-Launcher-Repo/releases/download/earth-extensions-2.11.0/EarthExtensions.zip",
-    "sha256": "c28c3984faf0ec64b447448b6f516cd1cd305e15df4dd20f61e6e4874e3e085f",
-    "sizeBytes": 403279
+    "downloadUrl": "https://github.com/InsideEarth2150/Earth2150-Launcher-Repo/releases/download/earth-extensions-2.12.0/EarthExtensions.2.12.0.zip",
+    "sha256": "38806bbadc541f007212d3a69a6ba8b6c56bc6a6bf2770e52d08b56b836c6425",
+    "sizeBytes": 1176210
   },{
     "id": "Super Storm EN_3.0", "name": "Super Storm EN", "version": "3.0",
     "eftbp": false, "tmp": true, "ls": true,
