@@ -1,5 +1,9 @@
 {
   "schemaVersion": 1,
+  "launcher": {
+    "version": "0.4.0",
+    "downloadUrl": "https://github.com/InsideEarth2150/Earth2150-Launcher-Repo/releases/tag/launcher-0.4.0"
+  },
   "mods": [{
     "id": "AdvancedAI_1.9", "name": "AdvancedAI", "version": "1.9",
     "eftbp": false, "tmp": true, "ls": true,
