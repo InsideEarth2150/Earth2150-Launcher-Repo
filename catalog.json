@@ -7,9 +7,45 @@
     "sha256": "86856918000495af01414679a834bae9db7c53b82ff2d2dc4589ee376c74eda5",
     "sizeBytes": 2473006
   },
+  "categories": [
+    { "id": "essentials", "name": "Essentials" },
+    { "id": "ai", "name": "AI" },
+    { "id": "gameplay", "name": "Gameplay" },
+    { "id": "gamemodes", "name": "Game modes" },
+    { "id": "campaigns", "name": "Campaigns" },
+    { "id": "interface", "name": "Interface" },
+    { "id": "visuals", "name": "Visuals" }
+  ],
+  "games": {
+    "eftbp": { "patches": [
+      { "name": "Community patch", "minVersion": "2.9.0.0", "latest": "2.9.0.0",
+        "downloads": { "windows": "https://tinyurl.com/E2150-EftBP-2900" } }
+    ] },
+    "tmp": { "patches": [
+      { "name": "Singleplayer patch", "minVersion": "2.1.0.1", "latest": "2.1.2.1",
+        "changelog": "https://wiki.insideearth.info/wiki/2.1.2.1",
+        "downloads": { "windows": "https://github.com/InsideEarth2150/Patches/raw/refs/heads/dev/2230/The%20Moon%20Project/Archive/tmp_sp2121_mp2222.exe" } },
+      { "name": "Multiplayer patch", "minVersion": "2.2.0.0", "latest": "2.2.2.6",
+        "changelog": "https://wiki.insideearth.info/wiki/2.2.2.6",
+        "downloads": {
+          "windows": "https://github.com/InsideEarth2150/Patches/raw/1343e24ba927313e63a87f32af27f23a040b906c/The%20Moon%20Project/tmp_sp2121_mp2226.exe",
+          "linux": "https://github.com/InsideEarth2150/Patches/tree/1343e24ba927313e63a87f32af27f23a040b906c/The%20Moon%20Project/ManualInstallation" } }
+    ] },
+    "ls": { "patches": [
+      { "name": "Singleplayer patch", "minVersion": "2.1.0.1", "latest": "2.1.2.1",
+        "changelog": "https://wiki.insideearth.info/wiki/2.1.2.1",
+        "downloads": { "windows": "https://github.com/InsideEarth2150/Patches/raw/refs/heads/dev/2230/Lost%20Souls/Archive/ls_sp2121_mp2222.exe" } },
+      { "name": "Multiplayer patch", "minVersion": "2.2.0.0", "latest": "2.2.2.6",
+        "changelog": "https://wiki.insideearth.info/wiki/2.2.2.6",
+        "downloads": {
+          "windows": "https://github.com/InsideEarth2150/Patches/raw/1343e24ba927313e63a87f32af27f23a040b906c/Lost%20Souls/ls_sp2121_mp2226.exe",
+          "linux": "https://github.com/InsideEarth2150/Patches/tree/1343e24ba927313e63a87f32af27f23a040b906c/Lost%20Souls/ManualInstallation" } }
+    ] }
+  },
   "mods": [{
     "id": "AdvancedAI_1.9", "name": "AdvancedAI", "version": "1.9",
     "eftbp": false, "tmp": true, "ls": true,
+    "categories": ["essentials", "ai", "gameplay"],
     "authors": "Guardian",
     "description": "This is a mod for The Moon Project that provides extremely strong AI for Skirmish or Multiplayer games.",
     "website": "https://github.com/InsideEarth2150/MoDs/tree/main/Game%20Specific/The%20Moon%20Project/EarthAdvancedAi",
@@ -20,6 +56,7 @@
   },{
     "id": "EarthExtensions_2.12.0", "name": "EarthExtensions", "version": "2.12.0",
     "eftbp": false, "tmp": true, "ls": true,
+    "categories": ["essentials"],
     "authors": "Guardian",
     "description": "EarthTmpExtensions is a module for The Moon Project and Lost Souls, which fixes some bugs and adds multiple clientside QoL improvements. A must have.",
     "website": "https://wiki.insideearth.info/wiki/EarthExtensions",
@@ -30,6 +67,7 @@
   },{
     "id": "Super Storm EN_3.0", "name": "Super Storm EN", "version": "3.0",
     "eftbp": false, "tmp": true, "ls": true,
+    "categories": ["gamemodes"], "exclusiveGroup": "SuperStorm",
     "authors": "SpaceTug",
     "description": "Gamers, who install the SuperStorm mod, take profit from new team options. These handle the alliances between human and AI-players automatically depending on the presetting. Moreover, the mod presents changes in the resource - and weather-options. After installing, resources last 4 to 16 times longer and the weather can be influenced. But that's not all. SuperStorm provides a clear view on the explored map after removing the fog of war with a mouse click. The \"Observer\"-Option, only available in the single player game, allows you to watch AI-players battling it out and ignore you totally.",
     "website": "http://web.archive.org/web/20151025082805/http://homepage.ntlworld.com/gmtechb/Earth/SS_V2.htm",
@@ -40,6 +78,7 @@
   },{
     "id": "Super Storm PL_3.0", "name": "Super Storm PL", "version": "3.0",
     "eftbp": false, "tmp": true, "ls": true,
+    "categories": ["gamemodes"], "exclusiveGroup": "SuperStorm",
     "authors": "SpaceTug",
     "description": "Gamers, who install the SuperStorm mod, take profit from new team options. These handle the alliances between human and AI-players automatically depending on the presetting. Moreover, the mod presents changes in the resource - and weather-options. After installing, resources last 4 to 16 times longer and the weather can be influenced. But that's not all. SuperStorm provides a clear view on the explored map after removing the fog of war with a mouse click. The \"Observer\"-Option, only available in the single player game, allows you to watch AI-players battling it out and ignore you totally.",
     "website": "http://web.archive.org/web/20151025082805/http://homepage.ntlworld.com/gmtechb/Earth/SS_V2.htm",
@@ -50,6 +89,7 @@
   },{
     "id": "Super Storm DE_3.0", "name": "Super Storm DE", "version": "3.0",
     "eftbp": false, "tmp": true, "ls": true,
+    "categories": ["gamemodes"], "exclusiveGroup": "SuperStorm",
     "authors": "SpaceTug",
     "description": "Gamers, who install the SuperStorm mod, take profit from new team options. These handle the alliances between human and AI-players automatically depending on the presetting. Moreover, the mod presents changes in the resource - and weather-options. After installing, resources last 4 to 16 times longer and the weather can be influenced. But that's not all. SuperStorm provides a clear view on the explored map after removing the fog of war with a mouse click. The \"Observer\"-Option, only available in the single player game, allows you to watch AI-players battling it out and ignore you totally.",
     "website": "http://web.archive.org/web/20151025082805/http://homepage.ntlworld.com/gmtechb/Earth/SS_V2.htm",
@@ -60,6 +100,7 @@
   },{
     "id": "Super Storm RU_3.0", "name": "Super Storm RU", "version": "3.0",
     "eftbp": false, "tmp": true, "ls": true,
+    "categories": ["gamemodes"], "exclusiveGroup": "SuperStorm",
     "authors": "SpaceTug",
     "description": "Gamers, who install the SuperStorm mod, take profit from new team options. These handle the alliances between human and AI-players automatically depending on the presetting. Moreover, the mod presents changes in the resource - and weather-options. After installing, resources last 4 to 16 times longer and the weather can be influenced. But that's not all. SuperStorm provides a clear view on the explored map after removing the fog of war with a mouse click. The \"Observer\"-Option, only available in the single player game, allows you to watch AI-players battling it out and ignore you totally.",
     "website": "http://web.archive.org/web/20151025082805/http://homepage.ntlworld.com/gmtechb/Earth/SS_V2.htm",
@@ -70,6 +111,7 @@
   },{
     "id": "Chip's No reload_1.0", "name": "Chip's No reload", "version": "1.0",
     "eftbp": false, "tmp": true, "ls": true,
+    "categories": ["gameplay"],
     "authors": "Chip",
     "description": "A mod that makes all weapons reacharge on their own, which eliminates the need to use ammo suppliers. It is based on 2.1 weapon parameters.",
     "minLauncherVersion": "0.2.0",
@@ -79,6 +121,7 @@
   },{
     "id": "General of the Third Category PL_1.0", "name": "General of the Third Category PL", "version": "1.0",
     "eftbp": false, "tmp": true, "ls": false,
+    "categories": ["campaigns"],
     "authors": "KP 2140",
     "description": "The campaign is the work of one of the Polish fans of The Moon Project - KP 2140. Thanks to him, we can play the despised and humiliated General of the UCS. The campaign gives us an amazing Fun. In most missions, apart from the fact that you have to think, we can admire huge fights, consisting of dozens of vehicles. Finally, there is a mission in which we use full capabilities of ships. The tasks are quite diverse - from destroy everyone, through repair the base, to build a defense in the ravine and repel the enemy. The campaign is also distinguished by a fairly high level of difficulty. All missions take place on newly created maps, we get completely new orders, which are sometimes very humorous (if we treat them with tongue in cheek). The plot strongly refers to the official Earths, so we can look at the war of 2150th from a different perspective. I think you don't need to be encouraged more to download this first Polish mod! It's just worth it! The Moon project gains a second youth with him :>",
     "minLauncherVersion": "0.2.0",
@@ -88,6 +131,7 @@
   },{
     "id": "IEO Arena_1.0", "name": "IEO Arena", "version": "1.0",
     "eftbp": false, "tmp": true, "ls": true,
+    "categories": ["gamemodes"],
     "authors": "Guardian, Szakael",
     "description": "This mod offers a completely rebuilt version of the arena mode. Unlike the original one, it enables dynamic, heavily configurable and very fun battles of up to 20 units per player. The mod can offer a lot of fun both in single and multiplayer modes.",
     "website": "https://github.com/InsideEarth2150/MoDs/tree/main/Game%20Specific/The%20Moon%20Project%20%26%20Lost%20Souls/IEO%20Arena",
@@ -98,6 +142,7 @@
   },{
     "id": "Red UCS Interface_1.0", "name": "Red UCS Interface", "version": "1.0",
     "eftbp": true, "tmp": true, "ls": true,
+    "categories": ["interface", "visuals"],
     "authors": "Szakael",
     "description": "Red colored in-game interface for UCS.",
     "minLauncherVersion": "0.2.0",
@@ -107,6 +152,7 @@
   },{
     "id": "Red EFTBP Menu Interface_1.0", "name": "Red EFTBP Menu Interface", "version": "1.0",
     "eftbp": true, "tmp": true, "ls": true,
+    "categories": ["interface", "visuals"],
     "authors": "Szakael",
     "description": "Red colored Menu interface based on EFTBP.",
     "minLauncherVersion": "0.2.0",
@@ -116,6 +162,7 @@
   },{
     "id": "Silent Strike Campaign EN_1.0.1", "name": "Silent Strike Campaign EN", "version": "1.0.1",
     "eftbp": false, "tmp": true, "ls": false,
+    "categories": ["campaigns"], "exclusiveGroup": "SilentStrikeCampaign",
     "authors": "ONE, tested by Rosic and PWL",
     "description": "This is an additional campaign for \"Earth 2150: The Moon Project\" for UCS. It includes 20 completely new missions. The story takes place parallel to the campaign in the Escape from the Blue Planet. You gets an opportunity to get to know the NEO from a different angle, before he became such a rebellious artificial intelligence. Together, you will carry out missions inter alia aimed at supporting the MARS project.",
     "minLauncherVersion": "0.2.0",
@@ -125,6 +172,7 @@
   },{
     "id": "Silent Strike Campaign PL_1.0.1", "name": "Silent Strike Campaign PL", "version": "1.0.1",
     "eftbp": false, "tmp": true, "ls": false,
+    "categories": ["campaigns"], "exclusiveGroup": "SilentStrikeCampaign",
     "authors": "ONE, tested by Rosic and PWL",
     "description": "Jest to dodatkowa kampania do \"Earth 2150 : The Moon Project\" , przeznaczona dla UCS. Zawiera 20 całkowicie nowych misji.",
     "minLauncherVersion": "0.2.0",
@@ -134,6 +182,7 @@
   },{
     "id": "Par Mod_0.4", "name": "Par Mod", "version": "0.4",
     "eftbp": false, "tmp": true, "ls": true,
+    "categories": ["gameplay"],
     "authors": "Szakael",
     "description": "This mod offers an alternative set of game parameters.",
     "minLauncherVersion": "0.2.0",
@@ -143,6 +192,7 @@
   },{
     "id": "WeatherMod_1.0", "name": "WeatherMod", "version": "1.0",
     "eftbp": true, "tmp": false, "ls": false,
+    "categories": ["visuals"],
     "authors": "Dave",
     "description": "A very effective weather mod that allows you to choose the type of weather for a given map. The script generates random but fair weather phenomena in the map area.",
     "minLauncherVersion": "0.2.0",
