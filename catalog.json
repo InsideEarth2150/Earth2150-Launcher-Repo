@@ -1,8 +1,11 @@
 {
   "schemaVersion": 1,
   "launcher": {
-    "version": "0.4.0",
-    "downloadUrl": "https://github.com/InsideEarth2150/Earth2150-Launcher-Repo/releases/tag/launcher-0.4.0"
+    "version": "0.5.0",
+    "downloadUrl": "https://github.com/InsideEarth2150/Earth2150-Launcher-Repo/releases/tag/launcher-0.5.0",
+    "assetUrl": "https://github.com/InsideEarth2150/Earth2150-Launcher-Repo/releases/download/launcher-0.5.0/Earth2150Launcher-0.5.0.zip",
+    "sha256": "86856918000495af01414679a834bae9db7c53b82ff2d2dc4589ee376c74eda5",
+    "sizeBytes": 2473006
   },
   "mods": [{
     "id": "AdvancedAI_1.9", "name": "AdvancedAI", "version": "1.9",
