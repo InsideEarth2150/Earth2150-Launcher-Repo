@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
   "launcher": {
-    "version": "0.8.0",
-    "downloadUrl": "https://github.com/InsideEarth2150/Earth2150-Launcher-Repo/releases/tag/launcher-0.8.0",
-    "assetUrl": "https://github.com/InsideEarth2150/Earth2150-Launcher-Repo/releases/download/launcher-0.8.0/Earth2150Launcher-0.8.0.zip",
-    "sha256": "24473551a736552b1d5471d1838cf869275bce58674996354468f2fc107447f9",
-    "sizeBytes": 3071345
+    "version": "0.8.1",
+    "downloadUrl": "https://github.com/InsideEarth2150/Earth2150-Launcher-Repo/releases/tag/launcher-0.8.1",
+    "assetUrl": "https://github.com/InsideEarth2150/Earth2150-Launcher-Repo/releases/download/launcher-0.8.1/Earth2150Launcher-0.8.1.zip",
+    "sha256": "7d6a4f7b3309d6af98ff58a45b651ac2906ddafbfa8e6d68b524a1388c973d11",
+    "sizeBytes": 3085581
   },
   "categories": [
     { "id": "essentials", "name": "Essentials" },
